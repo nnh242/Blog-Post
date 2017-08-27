@@ -22,7 +22,6 @@
   "bugs": {
     "url": "https://github.com/nnh242/Blog-Post/issues"
   },
-  "homepage": "https://github.com/nnh242/Blog-Post#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.4",

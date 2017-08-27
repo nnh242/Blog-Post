@@ -33,7 +33,6 @@ function closeServer() {
       server.close(err => {
         if (err) {
           reject(err);
-          // so we don't also call `resolve()`
           return;
         }
         resolve();
